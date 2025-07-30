@@ -84,19 +84,6 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    },
-    "yinnshi": {
-      "api": "https://cj.lziapi.com/api.php/provide...",
-      "name": "影视"},
-    "yinnshi2": {
-      "api": "https://www.qiqidys.com/api.php/provi...",
-      "name": "影视2"
-      "xiaohezi4K": {
-      "api": "http://xhztv.top/4k.json",
-      "name": "小盒子4K接口"
-        "OK": {
-      "api": "http://ok321.top/tv",
-      "name": "OK影视"
     }
   }
 }
